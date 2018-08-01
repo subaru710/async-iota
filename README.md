@@ -35,8 +35,7 @@ iota.api.getNodeInfo().then(function(result) {
 // now you can start using all of the functions in async/await way
 async function doStuff() {
   try {
-    const result = await
-    iota.api.getNodeInfo();
+    const result = await iota.api.getNodeInfo();
     console.log(result);
   } catch (e) {
     console.error(e);
