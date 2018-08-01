@@ -1,4 +1,3 @@
-
 var IOTA = require('../lib/index');
 
 var iota = new IOTA({
