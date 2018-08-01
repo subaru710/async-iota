@@ -1,0 +1,28 @@
+{
+  "name": "async-iota",
+  "version": "0.1.0",
+  "description": "Promise wrapper over iota.lib.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subaru710/async-iota.git"
+  },
+  "keywords": [
+    "iota",
+    "js",
+    "promise",
+    "async"
+  ],
+  "author": "subaru710",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subaru710/async-iota/issues"
+  },
+  "homepage": "https://github.com/subaru710/async-iota#readme",
+  "dependencies": {
+    "iota.lib.js": "^0.4.7"
+  }
+}
