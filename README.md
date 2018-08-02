@@ -1,4 +1,4 @@
-<h1 align="center">async-mqtt</h1>
+<h1 align="center">async-iota</h1>
 <p align="center">Promise wrapper over iota.lib.js</p>
 
 **IMPORTANT: Make sure you handle rejections from returned promises because they won't crash the process**
